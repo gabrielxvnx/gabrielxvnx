@@ -1,4 +1,4 @@
-# **👋 Olá, mundo!**
+# **👋 Hello, world!**
 
 🚀 Impulsionado pela curiosidade, busco constantemente novos insights e conhecimentos em **análise de dados** e **tecnologia**.
 
