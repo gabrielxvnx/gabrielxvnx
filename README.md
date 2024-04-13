@@ -1,6 +1,6 @@
 # **👋 Hello, world!**
 
-🚀 **Impulsionado pela curiosidade, busco constantemente novos insights e conhecimentos em **análise de dados** e **tecnologia**.**
+🚀 **Impulsionado pela curiosidade, busco constantemente novos insights e conhecimentos sobre tecnologia e o mundo.**
 
 - 🔭 Atualmente, estou me aventurando em **Python** e **SQL**, explorando as profundezas da **Data Analytics**.
 
