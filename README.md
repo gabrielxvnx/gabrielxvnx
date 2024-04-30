@@ -26,5 +26,5 @@
 ## 📫 Vamos Conectar!
 Conecte-se comigo e vamos colaborar em projetos incríveis!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielxvnx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-171e75?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielxvnx)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
