@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente, estou me aventurando em **Python** e **SQL**, explorando as profundezas da **Data Analytics**.
 
-- ⚡ Mas estou sempre disposto a aprender mais e talvez trabalhar com você!
+- ⚡ Mas estou sempre disposto a aprender mais e talvez colaborar com você!
 ---
 ## **🛠️ Ferramentas Técnicas**
 
