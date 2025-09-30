@@ -2,7 +2,7 @@
 
 🚀 **Impulsionado pela curiosidade, busco constantemente novos insights e conhecimentos sobre tecnologia e o mundo.**
 
-- 🔭 Atualmente, estou me aventurando em **Python** e **SQL**, explorando as profundezas da **Data Analytics**.
+- 🔭 Atualmente, estou me aventurando em **Python** e **SQL**.
 
 - ⚡ Mas estou sempre disposto a aprender mais e talvez colaborar com você!
 ---
